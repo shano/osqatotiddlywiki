@@ -1,7 +1,7 @@
 # Installation
 1. If you are using a Debian-based OS, run `sudo apt-get install python-dev libmysqlclient-dev`
 2. Create a virtualenv, I use virtualwrapper. So `mkvirtualenv osqaconverter`
-3. Run pip install -r requirements.txt
+3. Run `pip install -r requirements.txt`
 
 
 # Requirements
